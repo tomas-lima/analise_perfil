@@ -274,7 +274,5 @@ st.markdown("""
 - Download option provides the complete daily dataset
 """)
 
-'''
-cd "C:\Users\tomas\OneDrive\Área de Trabalho\analise_perfil" && python -m venv venv && .\venv\Scripts\activate && streamlit run analise.py
-'''
+# cd "C:\Users\tomas\OneDrive\Área de Trabalho\analise_perfil" && python -m venv venv && .\venv\Scripts\activate && streamlit run analise.py
 
